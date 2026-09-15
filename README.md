@@ -2,9 +2,9 @@
 
 ## Overview
 
-This notebook implements a reusable workflow for building and evaluating linear regression models: outlier detection, correlation analysis, and both simple and multivariate ordinary least squares (OLS) regression. The workflow is demonstrated on a synthetic dataset relating national infrastructure indicators (vehicle counts, road and rail volumes, network length, number of households) to a bridge count per country, but the methodology generalizes to any tabular dataset with a numeric dependent variable.
+This notebook implements a workflow for building and evaluating linear regression models: outlier detection, correlation analysis, and both simple and multivariate ordinary least squares (OLS) regression. The workflow is demonstrated on a dataset relating national infrastructure indicators (vehicle counts, road and rail volumes, network length, number of households) to a bridge count per country, but the methodology generalizes to any tabular dataset with a numeric dependent variable.
 
-The dataset (`exemplary_regression_data.xlsx`) is a synthetic example created for demonstration purposes.
+The dataset (`exemplary_regression_data.xlsx`) is an example created for demonstration purposes.
 
 ## Techniques demonstrated
 
